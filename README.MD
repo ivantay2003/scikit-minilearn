@@ -1,4 +1,5 @@
-
+Mini scikit project collections
+<br><br><br>
 
 Remote
 git remote add origin https://github.com/ivantay2003/scikit-minilearn.git
